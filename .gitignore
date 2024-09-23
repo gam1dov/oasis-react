@@ -27,5 +27,3 @@ dist-ssr
 .eslintrc.cjs
 .eslintrc.json
 
-# Some components
-/src/features/cabins/CreateCabinForm-v1.jsx
